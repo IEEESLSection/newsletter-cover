@@ -41,6 +41,8 @@
   float: left;
   margin-left: 1rem;
   margin-right: 1rem;
+
+  width: 35%;
 }
 
 .post-thumb-content{
@@ -53,5 +55,9 @@
 
 .post-para{
   font-weight: normal;
+  text-align: justify;
+}
+
+.post-link{
   text-align: justify;
 }
