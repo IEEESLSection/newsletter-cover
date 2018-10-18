@@ -2,7 +2,7 @@
   "name": "foundation-emails-template",
   "version": "1.0.0",
   "description": "Basic template for a Foundation for Emails project.",
-  "repository": "zurb/foundation-emails-template",
+  "repository": "https://github.com/IEEESLSection/newsletter-cover",
   "main": "gulpfile.babel.js",
   "scripts": {
     "start": "gulp",
@@ -34,7 +34,7 @@
     "gulp-inline-css": "^3.0.0",
     "gulp-litmus": "0.0.7",
     "gulp-load-plugins": "^1.1.0",
-    "gulp-mail": "^0.1.1",
+    "gulp-mail": "^0.3.0",
     "gulp-rename": "^1.2.2",
     "gulp-replace": "^0.5.4",
     "gulp-sass": "^2.1.0",
