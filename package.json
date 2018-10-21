@@ -14,8 +14,8 @@
   "author": "ZURB <foundation@zurb.com>",
   "license": "MIT",
   "dependencies": {
-    "foundation-emails": "^2.2.1",
-    "npm": "^6.1.0"
+    "@babel/register": "^7.0.0",
+    "foundation-emails": "^2.2.1"
   },
   "devDependencies": {
     "babel-core": "^6.3.26",
@@ -24,7 +24,7 @@
     "beepbeep": "^1.2.0",
     "browser-sync": "^2.11.0",
     "colors": "^1.1.2",
-    "gulp": "git+https://github.com/gulpjs/gulp.git#4.0",
+    "gulp": "^4.0.0",
     "gulp-awspublish": "^3.0.1",
     "gulp-cli": "^1.1.0",
     "gulp-html-src": "^1.0.0",
